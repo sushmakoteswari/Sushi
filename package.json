@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "sushi-website",
+=======
+  "name": "sushi",
+>>>>>>> bbd02ea84c25ae8339fe7a6444b0a852cd91f66e
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +13,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "vite": "^5.0.8"
+=======
+    "vite": "^4.3.2"
+>>>>>>> bbd02ea84c25ae8339fe7a6444b0a852cd91f66e
   },
   "dependencies": {
     "aos": "^2.3.4"
