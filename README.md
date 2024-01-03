@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/QRrPE9aj3wI?feature=shared" target="_blank">
+    <img width="868" alt="image" src="https://github.com/sushmakoteswari/Sushi/assets/93698513/db4e99ca-b3c4-4002-84d4-e03cd3190e18">
       <img src="https://github.com/adrianhajdin/project_html_css_website/assets/151519281/562e0f27-4b93-41cb-a63d-7c50940fc0ad" alt="Project Banner">
     </a>
   <br />
@@ -20,9 +20,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-
-
-## 🚨 Tutorial
 
 ## <a name="introduction">🤖 Introduction</a>
 
